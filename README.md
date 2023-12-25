@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bob!
+- 👀 I’m interested in Machine Learning and Blockchain technology
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Web2/Web3 applications at any scale
+- 📫 Reach me on [Upwork](https://www.upwork.com/freelancers/~0167f7acda685015a7)
